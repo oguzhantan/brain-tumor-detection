@@ -37,8 +37,7 @@ Projeyi Kaggle üzerinde çalıştırabilirsiniz:
 
 ## 📈 Sonuçlar
 
-- **Model Doğruluğu (Accuracy):** `%XX`  
-- **Loss:** `%YY`  
+- **Model Doğruluğu (Accuracy):** `%72`  
 
 📌 Eğitim sürecinde elde edilen grafikler:  
 
